@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="282b8026-8ba3-4351-89b5-e3d241c52085" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Flexbox/001_default aligment/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/001_default aligment/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/003_exchange_asix/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/003_exchange_asix/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/004_exchange_and_mirror_asix/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/004_exchange_and_mirror_asix/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/005_simple_nav_bar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/005_simple_nav_bar/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/006_simple_layout/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/006_simple_layout/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/007_item_fit_just_one_line/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/008_wrap_items/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/008_wrap_items/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/009_wrap_reverse/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/009_wrap_reverse/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/011_strict_height/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/011_strict_height/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +64,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648650364208</updated>
-      <workItem from="1648650365334" duration="2577000" />
+      <workItem from="1648650365334" duration="4069000" />
     </task>
+    <task id="LOCAL-00001" summary="First steps">
+      <created>1648654283099</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648654283099</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First steps" />
+    <option name="LAST_COMMIT_MESSAGE" value="First steps" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="188" key="CommitChangelistDialog2" timestamp="1648654282611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="188" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1648654282611" />
+    <state x="786" y="222" key="RollbackChangesDialog" timestamp="1648654797592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="786" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648654797592" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1648654286158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1648654286158" />
   </component>
 </project>
