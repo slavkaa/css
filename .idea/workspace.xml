@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="282b8026-8ba3-4351-89b5-e3d241c52085" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Flexbox/006_simple_layout/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/006_simple_layout/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/007_item_fit_just_one_line/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/008_wrap_items/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/008_wrap_items/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/009_wrap_reverse/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/009_wrap_reverse/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/011_strict_height/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/011_strict_height/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/012_aligments/index_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/012_aligments/index_3_align_self.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/012_aligments/styles_2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/012_aligments/styles_3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flexbox/009_wrap_reverse/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Flexbox/009_wrap_reverse/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +38,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Flexbox" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Flexbox/012_aligments" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -53,6 +50,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\domains\css.loc\Flexbox\012_aligments" />
       <recent name="D:\domains\css.loc\Flexbox" />
     </key>
   </component>
@@ -64,7 +62,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648650364208</updated>
-      <workItem from="1648650365334" duration="4069000" />
+      <workItem from="1648650365334" duration="4869000" />
+      <workItem from="1648732091194" duration="594000" />
+      <workItem from="1648808791034" duration="7852000" />
+      <workItem from="1648880446615" duration="3036000" />
+      <workItem from="1649144930865" duration="2058000" />
     </task>
     <task id="LOCAL-00001" summary="First steps">
       <created>1648654283099</created>
@@ -73,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648654283099</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Wrapping">
+      <created>1648655868040</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648655868040</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,20 +90,25 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First steps" />
-    <option name="LAST_COMMIT_MESSAGE" value="First steps" />
+    <MESSAGE value="Wrapping" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrapping" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="188" key="CommitChangelistDialog2" timestamp="1648654282611">
+    <state x="585" y="188" key="CommitChangelistDialog2" timestamp="1648655867530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="188" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1648654282611" />
+    <state x="585" y="188" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1648655867530" />
     <state x="786" y="222" key="RollbackChangesDialog" timestamp="1648654797592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="786" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648654797592" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1648654286158">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1648655869887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1648654286158" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1648655869887" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1648815032425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1648815032425" />
   </component>
 </project>
