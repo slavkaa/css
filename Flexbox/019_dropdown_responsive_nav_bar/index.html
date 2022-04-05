@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dropdown Navigation Menu using Flexbox</title>
+
+    <link rel="stylesheet" href="styles.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<!-- https://codepen.io/joslex/pen/adeJeV -->
+
+<div class="menu-area">
+    <nav class="main-navigation">
+        <ul class="menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li class="menu-item-has-children"><a href="#">Services</a>
+                <ul class="sub-menu">
+                    <li><a href="#">Plumbing</a></li>
+                    <li class="menu-item-has-children"><a href="#">Heating</a>
+                        <ul class="sub-menu">
+                            <li><a href="#">Residential</a></li>
+                            <li><a href="#">Commercial</a></li>
+                            <li><a href="#">Industrial</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Electrical</a></li>
+                </ul>
+            </li>
+            <li><a href="#">Pricing</a></li>
+            <li><a href="#">Contact Us</a></li>
+        </ul>
+    </nav>
+</div>
+
+<div class="banner-area">
+    <h1>Banner Text</h1>
+</div>
+
+</body>
+</html>
