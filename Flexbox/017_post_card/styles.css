@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex-item {
+    padding: 10px;
+    font: 900 60px "Roboto", sans-serif;
+    color: #fff;
+    text-align: center;
+    text-shadow: 4px 2px 0 rgba(0, 0, 0, 0.2);
+}
+
+.flex-container {
+    background: linear-gradient(45deg, #84fab0, #8fd3f4);
+    padding: 1em;
+}
+
+p {
+    color: #fff;
+    font-size: 16px;
+}
+
+/* Custom styles */
+.flex-container {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    gap: 1em;
+}
+
+.content {
+    flex: 1;
+}

@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+aside.flex-item {
+    background-color: #ffcc00;
+}
+
+.flex-item {
+    padding: 10px;
+    font: 900 60px "Roboto", sans-serif;
+    color: #fff;
+    text-align: center;
+    background-color: #3399ff;
+    font-size: 16px;
+    text-shadow: 2px 1px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Custom styles */
+.flex-container {
+    background-color: #00cc00;
+    display: flex;
+    min-height: 100vh;
+}
+
+aside {
+    min-width: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
