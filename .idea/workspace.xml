@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="282b8026-8ba3-4351-89b5-e3d241c52085" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Flexbox/013_flex_glow/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/013_flex_glow/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/014_flex_order/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/014_flex_order/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/015_3_cols_layout/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/015_3_cols_layout/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/016_modal_window/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flexbox/016_modal_window/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +38,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Flexbox/013_flex_glow" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Flexbox" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -46,9 +50,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\domains\css.loc\Flexbox" />
       <recent name="D:\domains\css.loc\Flexbox\013_flex_glow" />
       <recent name="D:\domains\css.loc\Flexbox\012_aligments" />
-      <recent name="D:\domains\css.loc\Flexbox" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,7 +67,7 @@
       <workItem from="1648732091194" duration="594000" />
       <workItem from="1648808791034" duration="7852000" />
       <workItem from="1648880446615" duration="3036000" />
-      <workItem from="1649144930865" duration="3336000" />
+      <workItem from="1649144930865" duration="6325000" />
     </task>
     <task id="LOCAL-00001" summary="First steps">
       <created>1648654283099</created>
@@ -86,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649150202340</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Glow">
+      <created>1649151773111</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649151773111</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,21 +107,22 @@
     <MESSAGE value="First steps" />
     <MESSAGE value="Wrapping" />
     <MESSAGE value="Aligment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aligment" />
+    <MESSAGE value="Glow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Glow" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="188" key="CommitChangelistDialog2" timestamp="1649150201575">
+    <state x="585" y="188" key="CommitChangelistDialog2" timestamp="1649151772273">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="188" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1649150201575" />
+    <state x="585" y="188" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1649151772273" />
     <state x="786" y="222" key="RollbackChangesDialog" timestamp="1648654797592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="786" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648654797592" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1649150203196">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1649151774158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1649150203196" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1649151774158" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1648815032425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

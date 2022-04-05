@@ -1,0 +1,36 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex-item {
+    padding: 10px;
+    font: 900 60px "Roboto", sans-serif;
+    color: #fff;
+    text-align: center;
+    text-shadow: 4px 2px #555;
+}
+
+ /* FLEX */
+
+.flex-container {
+    align-items: center;
+    background-color: #eee;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.modal-window {
+    background-color: #ff9966;
+    box-shadow: 4px 4px #555;
+    height: 300px;
+    min-height: 180px;
+    width: 500px;
+}
