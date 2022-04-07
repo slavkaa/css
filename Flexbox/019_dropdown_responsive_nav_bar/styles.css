@@ -97,9 +97,8 @@ nav ul li:hover > ul {
 
     .menu-item-has-children .menu-item-has-children > a:after {
         font-family: "Roboto", serif;
-        content: '\f431';
+        content: '\21d8';
         padding: 1px;
-        transform: rotate(-90deg);
     }
 }
 

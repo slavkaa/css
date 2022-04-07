@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="282b8026-8ba3-4351-89b5-e3d241c52085" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Flexbox/019_dropdown_responsive_nav_bar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flexbox/019_dropdown_responsive_nav_bar/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flexbox/019_dropdown_responsive_nav_bar/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Flexbox/019_dropdown_responsive_nav_bar/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,8 @@
       <workItem from="1648732091194" duration="594000" />
       <workItem from="1648808791034" duration="7852000" />
       <workItem from="1648880446615" duration="3036000" />
-      <workItem from="1649144930865" duration="10763000" />
+      <workItem from="1649144930865" duration="11380000" />
+      <workItem from="1649336952708" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="First steps">
       <created>1648654283099</created>
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649162532845</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Aside nav">
+      <created>1649166509949</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649166509949</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,18 +134,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="683" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1649163035385" />
-    <state x="585" y="188" key="CommitChangelistDialog2" timestamp="1649162532442">
+    <state x="585" y="188" key="CommitChangelistDialog2" timestamp="1649166509555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="188" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1649162532442" />
+    <state x="585" y="188" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1649166509555" />
     <state x="786" y="222" key="RollbackChangesDialog" timestamp="1648654797592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="786" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648654797592" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1649162534152">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1649166512581">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1649162534152" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1649166512581" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1648815032425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
